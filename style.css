@@ -802,6 +802,59 @@
     position: absolute;
 }
 
+.inspiration-on-demand-content-9-1 {
+    display: block;
+    background: rgba(255,255,255,0);
+    left: 0px;
+    top: 4354.5px;
+    z-index: 77;
+    position: absolute;
+}
+
+.inspiration-on-demand-content-9-2 {
+    display: block;
+    background: rgba(255,255,255,0);
+    left: 196px;
+    top: 4354.5px;
+    z-index: 79;
+    position: absolute;
+}
+
+.inspiration-on-demand-content-9-3 {
+    display: block;
+    background: rgba(255,255,255,0);
+    left: 393px;
+    top: 4354.5px;
+    z-index: 78;
+    position: absolute;
+}
+
+.inspiration-on-demand-content-9-5 {
+    display: block;
+    background: rgba(255,255,255,0);
+    border-style: none;
+    border-radius: 0px;
+    left: 612px;
+    top: 4558px;
+    z-index: 80;
+    width: 323px;
+    height: 64px;
+    position: absolute;
+}
+
+.inspiration-on-demand-content-9-4 {
+    display: block;
+    background: rgba(255,255,255,0);
+    border-style: none;
+    border-radius: 0px;
+    left: 612px;
+    top: 4406.5px;
+    z-index: 76;
+    width: 293px;
+    height: 167px;
+    position: absolute;
+}
+
 @media (-webkit-min-device-pixel-ratio: 1.1), (min-resolution: 97dpi) {
     .inspiration-on-demand-content-7-3 {
         background-image: url(https://au-assets.s3.us-west-2.amazonaws.com/assets/campaigns/2022/Q1/03-01+Inspiration+on+Demand/content-7-3-2.jpg);
